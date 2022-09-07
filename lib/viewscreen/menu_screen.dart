@@ -30,7 +30,7 @@ class MenuScreen extends StatelessWidget {
                 centerTitle: true,
                 title: TextButton(
                   onPressed: () =>
-                      Navigator.pushNamed(context, StartScreen.routeName),
+                      Navigator.pushNamed(context, MainScreen.routeName),
                   child: Text(
                     'Rigatoni',
                     style: TextStyle(

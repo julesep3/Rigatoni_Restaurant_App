@@ -30,7 +30,7 @@ class MainScreen extends StatelessWidget {
               // make title a link to start screen
               title: TextButton(
                 onPressed: () =>
-                    Navigator.pushNamed(context, StartScreen.routeName),
+                    Navigator.pushNamed(context, MainScreen.routeName),
                 child: Text(
                   'Rigatoni',
                   style: TextStyle(
