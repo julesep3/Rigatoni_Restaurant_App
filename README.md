@@ -9,6 +9,9 @@ Creative Work Assignment 1
 Personal Assignment Goals
  - Create mock restaurant application with basic navigation between pages
 
+## Demo Link
+ - https://youtu.be/wYFYjZ-u5X8
+
 ## Getting Started
 
  - In the terminal, to run, type:
