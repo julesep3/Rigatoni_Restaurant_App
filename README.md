@@ -1,6 +1,6 @@
 # Rigatoni Restaurant Mobile App
 
-UCO - Mobile Apps Programming Class <br />
+UCO - Mobile Apps Programming <br />
 Fall 2021 (Year 3 / Semester 2) <br />
 Creative Work Assignment 1
  - The agenda is focused on stateless widgets (no stateful widgets)
