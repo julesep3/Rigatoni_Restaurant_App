@@ -12,7 +12,3 @@ Personal Assignment Goals
 ## Demo Link
  - https://youtu.be/wYFYjZ-u5X8
 
-## Getting Started
-
- - In the terminal, to run, type:
- flutter run
